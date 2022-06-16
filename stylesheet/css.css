@@ -169,13 +169,6 @@ footer {
     z-index: -1;
 }
 
-/* Screens that are 576px and smaller will not display the background video */
-@media screen and (max-width: 576px) {
-    #Coding_Video {
-        display: none;
-    }
-}
-
 /* Texts over the video */
 .Video_Text {
     background:rgba(0, 0, 0, 0.5); /* This provides a semi-transparent background for the text to sit over */
@@ -261,7 +254,7 @@ footer {
     bottom: 0; /* This property sets the text at the bottom of the image */
     width: 100%; /* The element covers the full width of the image */
     text-align: center; /* The text is center allign within the image */
-    font-family: Perputa, Rockwell Extra Bold;
+    font-family: Perpetua, Rockwell Extra Bold;
     letter-spacing: .1vw; /* This gives slight spacing between the letters */
     font-size: 1.5vw; /* Font size is relative to the size of the viewport width */
     background-color: rgba(0, 0, 0, 0.75); /* Gives a slightly transparent black background */
