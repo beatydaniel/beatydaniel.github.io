@@ -169,6 +169,13 @@ footer {
     z-index: -1;
 }
 
+/* Screens that are 576px and smaller will not display the background video */
+@media screen and (max-width: 576px) {
+    #Coding_Video {
+        display: none;
+    }
+}
+
 
 
 /* Texts over the video */
@@ -374,7 +381,7 @@ footer {
 .form-container input[type=text]{
     width:100%; /* The input boxes completely fill the width of the form-container */
     padding:.93vw; /* Adds padding to the input boxes */
-    margin: .6vw 0.6vw 0; /* Adds space between the input boixes and the labels */
+    margin: .6vw .6vw 0; /* Adds space between the input boixes and the labels */
     border: none; /* Removes the border from the input boexes */
     background: gainsboro; /* Sets background color of the input boxees */
     font-size: 1vw; /* Relative font sizing based on the width of the viewport */
