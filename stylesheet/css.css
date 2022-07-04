@@ -401,18 +401,18 @@ button {
 
 /* Hover effect for contact and submit buttons */
 button:hover, .form-container .btn:hover {
-    color: white;   /* This makes the text in the buttons white when hover over */
+    color: lightskyblue;   /* This makes the text in the buttons white when hover over */
     background-color: black; /* This makes the text buttons white when hovered over */
     transition-duration: 1s; /* This makes the transition last 1 second */
     -webkit-transition-duration: 1s; /* For Safari 4.0-8.0 */
-    border-color: silver; /* The border turns silver when the button is hovered over */
+    border-color: red; /* The border turns silver when the button is hovered over */
 }
 
 /* Submit button */
 .form-container .btn{
     background-color: white;
     color:black;
-    border-color:black;
+    border-color:blue;
     margin-bottom: 1vh; /* Adds space between the submit button and the close button */
 }
 
@@ -420,16 +420,16 @@ button:hover, .form-container .btn:hover {
 .form-container .cancel {
     background-color: black;
     color: white;
-    border-color: grey;
+    border-color: blue;
 }
 
 /* Styling for close button on hover */
 .form-container .cancel:hover {
-    color:white;
-    background-color: darkred;
+    color:black;
+    background-color: lightskyblue;
     transition-duration: 1s;
     -webkit-transition-duration: 1s;
-    border-color: black;
+    border-color: blue;
 }
 /***** END OF CONTACT FORM STYLING *****/
 
