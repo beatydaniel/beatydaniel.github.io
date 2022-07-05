@@ -308,7 +308,7 @@ footer {
     float: left;
     width: 50%; /* This ensures the column takes up half of the page width */
     padding: 1.6%;
-    height: 450px; /* This sets the height of the column to 450px */
+    height: 550px; /* This sets the height of the column to 450px */
     background-color: rgb(177, 177, 177);
 }
 
@@ -316,7 +316,7 @@ footer {
     float: left;
     width: 50%;
     padding: 1.6%;
-    height: 450px;
+    height: 550px;
     background-color: #4d4d4d;
 }
 
