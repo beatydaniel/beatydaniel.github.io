@@ -308,7 +308,7 @@ footer {
     float: left;
     width: 50%; /* This ensures the column takes up half of the page width */
     padding: 1.6%;
-    height: 450px; /* This sets the height of the column to 450px */
+    height: 600px; /* This sets the height of the column to 600px */
     background-color: rgb(177, 177, 177);
 }
 
@@ -316,7 +316,7 @@ footer {
     float: left;
     width: 50%;
     padding: 1.6%;
-    height: 450px;
+    height: 600px;
     background-color: #4d4d4d;
 }
 
@@ -503,10 +503,10 @@ button:hover, .form-container .btn:hover {
 /* Media rules to increase the size of the columns for larger screens */
 @media screen and (min-width: 1725px) {
     .Column_1 {
-        height: 950px;
+        height: 850px;
     }
     .Column_2 {
-        height: 950px;
+        height: 850px;
     }
 }
 
