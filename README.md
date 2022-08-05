@@ -6,71 +6,71 @@
 <br>
 
 # Python Projects
- Projects created using Python, using various modules such as tkinter or sqlite3
+ <h3>Projects created using Python, using various modules such as tkinter or sqlite3</h3>
+ <br>  
 
-    [PhoneBook](https://github.com/beatydaniel/Python-Projects/tree/main/Phonebook_Project)
-    [Check Files Gui](https://github.com/beatydaniel/Python-Projects/tree/main/File%20Transfer)
-    [Live Project](https://github.com/beatydaniel/Python-Live-Project)
+* [Live Project](https://github.com/beatydaniel/Python-Live-Project)
 
-* Live Project:
 A two week sprint where we used Python with the Django Framework to develop websites. We Used Agile Methodolgies and daily Scrums. I learned how to work with a team of developers and how to utilize version control by branching and making pull requests with master.I learned front end and back end development and also how to render API data to my templates.
 
-* Phonebook:
+* [PhoneBook](https://github.com/beatydaniel/Python-Projects/tree/main/Phonebook_Project)
 
 This project functiuns as a phonebook using a Interface that saves a contact's name,phone number, and email address in a database and allows the user to update and delete previously stored entries.
 
-* Check Files Gui:
+* [Check Files Gui](https://github.com/beatydaniel/Python-Projects/tree/main/File%20Transfer)
 
 This project allows the user to choose to transfer all .txt files from one chosen director to another.
 All files that are moved will be saved in a database.
+<br>
+<br>
 
 # JavaScript Projects
- Projects using JavaScript
+ <h3>Projects using JavaScript</h3>
+ <br>
 
-    [Pizza Menu](https://github.com/beatydaniel/JavaScript-Projects/tree/main/Pizza_Project)
-    [Tic-Tac-Toe Game](https://github.com/beatydaniel/JavaScript-Projects/tree/main/TicTacToe)
-    [Calculator](https://github.com/beatydaniel/JavaScript-Projects/tree/main/JavaScript%20Projects)
-
-* Pizza Menu
+* [Pizza Menu](https://github.com/beatydaniel/JavaScript-Projects/tree/main/Pizza_Project)
 
 Created a menu that you can use to order pizza with various toppings. It then takes the input information
 and calculates a price for the order.
 
-* Tic-Tac-Toe Game
+* [Tic-Tac-Toe Game](https://github.com/beatydaniel/JavaScript-Projects/tree/main/TicTacToe)
 
 Created the classic game of tic-tac-toe. User selects where each token goes and the computer competes against them. The winner
 or in the event of a tie plays music.
 
-* Calculator
+* [Calculator](https://github.com/beatydaniel/JavaScript-Projects/tree/main/JavaScript%20Projects)
 
 Created a basic 4 function calcualtor. Users can add,subtract,multiply, and divide on a sleek web version of a calculator.
+<br>
+<br>
 
 # HTML and CSS Projects
-Projects Created Using HTML and CSS:
-
-    [Space Station Site](https://github.com/beatydaniel/HTML-and-CSS-Projects/tree/main/Project) 
-    [Movie Theater Site](https://github.com/beatydaniel/HTML-and-CSS-Projects/tree/main/bootstrap4_project)
+<h3>Projects Created Using HTML and CSS:</h3>
+<br>
     
-* Space Station Site
+    
+    
+* [Space Station Site](https://github.com/beatydaniel/HTML-and-CSS-Projects/tree/main/Project) 
 
 This page is an example home page for a Space travel company. It's styled using CSS and contains
 a navbar,image containers, and a form.
 
-* Movie Theater Site
+* [Movie Theater Site](https://github.com/beatydaniel/HTML-and-CSS-Projects/tree/main/bootstrap4_project)
 
 This page is an example home page for a Movie theater that is styled using Bootstrap 4. It
 contains many Bootstrap components including but not limited to a navbar,jumbotron,form,
 cards,and dropdowns.
+<br>
+<br>
 
 # C# and .NET Projects
-Projects Created Using C# and .NET Framework:
+<h3>Projects Created Using C# and .NET Framework:</h3>
+<br>
 
-    [Car Insurance](https://github.com/beatydaniel/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
-    [TwentyOne Game](https://github.com/beatydaniel/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TwentyOne)
-
-* Car Insurance
+* [Car Insurance](https://github.com/beatydaniel/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
 
 This Project is an MVC web application that mimics a car insurance website. It takes the user's input and calculates a quote based on business logic. There is also a admin page that allows the staff to view all the quotes that have been issued.
-* TwentyOne Game
+<br>
+* [TwentyOne Game](https://github.com/beatydaniel/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TwentyOne)
 
 Created a Console App that allows a User to play a game of BlackJack. It uses several Classes and datatypes and also maps exceptions into a database.
